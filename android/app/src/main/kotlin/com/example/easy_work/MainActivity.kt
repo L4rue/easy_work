@@ -1,6 +1,5 @@
-package com.example.easy_work
+package top.larue.easy_work
 
 import io.flutter.embedding.android.FlutterActivity
 
-class MainActivity: FlutterActivity() {
-}
+class MainActivity: FlutterActivity()
